@@ -1,0 +1,4 @@
+# app-ads.txt fuer POPPI POP (miranmutlu63-sys.github.io)
+# Google prueft diese Datei, um zu bestaetigen, dass Werbung in der App wirklich ueber dein AdMob-Konto laeuft.
+# SOBALD DAS ADMOB-KONTO STEHT: die Zeile aus AdMob (Apps -> app-ads.txt) hier eintragen und das Zeichen # davor entfernen.
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
